@@ -75,6 +75,20 @@ article {
     border-bottom: 1px dotted #c7c7c7;
 }
 
+.--text-red {
+    color: red;
+}
+
+footer {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    margin-bottom: 30px;
+    color: #8e8e8e;
+}
+
 h1 {
     letter-spacing: 4px;
     font-weight: 400;

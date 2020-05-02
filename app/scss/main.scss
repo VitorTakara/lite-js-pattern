@@ -12,6 +12,22 @@ body {
     position: relative;
 }
 
+::-webkit-scrollbar-track
+{
+  background: rgb(228, 228, 228);
+}
+
+::-webkit-scrollbar
+{
+	width: 13px;
+}
+
+::-webkit-scrollbar-thumb
+{
+	border-radius: 20px;
+	background-color: #7369d8;
+}
+
 nav {
     display: none;
     position: fixed;

@@ -1,0 +1,19 @@
+// Variáveis
+// Contém as variáveis do sistema
+@import "variables/index";
+
+// libs
+// Arquivos de bibliotecas externas
+@import "libs/normalize";
+
+// Base
+// Arquivo base global que será usado em todas as telas
+@import "base/index";
+
+// Helper classes
+// Classes para ajudar na estilização
+@import "helper classes/index";
+
+// Animations
+// Animações em CSS
+@import "animations/index";

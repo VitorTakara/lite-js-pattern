@@ -1,24 +1,3 @@
-# Simple Gulp Web Seed
+# Lite js pattern
 
-Criei este repositório com a finalidade de me ajudar na hora de iniciar um projeto web simples.
-O projeto esta estruturado em pastas e utiliza as seguintes funcionalidades:
-
-<ul>
-  <li>Browser-sync</li>
-  <li>Minificação HTML</li>
-  <li>Minificação de Imagens</li>
-  <li>Compilação de SCSS ( Uso de .scss obrigatório )</li>
-  <li>UglifyJS + Concat + Order JS (sourcemap opcional)</li>
-</ul>
-
-# Como usar
-
-Basta clonar o projeto e rodar o comando `npm start`.
-
-# Observações
-
-* Todos os arquivos `JS` devem ser listados no arquivo do Gulpfile na ordem desejada
-* O uso de arquivos `scss` é obrigatória, arquivos `.css` serão ignorados
-* O Projeto é aberto para fazer sugestões e melhorias! Faça bom uso :)
-
-Made with ♥ by Vitor Takara
+LiteJS is a Javascript Pattern based on Google Javacript Pattern and Airbnb Javascript Pattern. It's a compiled and simplified pattern to make code more standardized without reading many pages of rules. It's a simplified pattern created to our team here on Itaú BBA teaching our front-ends, back-ends and fullstacks how to code front-end in the project
